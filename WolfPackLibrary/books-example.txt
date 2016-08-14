@@ -1,0 +1,26 @@
+3   Pride and Prejudice by Jane Austin
+1   Love in the Time of Cholera by Gabriel Garcia Marquez
+2   The Elements of Style (4th Edition) by Strunk and White
+5 The Dark Is Rising by Susan Cooper 
+1 Shadow of the Hegemon by Orson Scott Card 
+8 The Dharma Bums by Jack Kerouac 
+2 Wintersmith by Terry Pratchett 
+1 The Hero with a Thousand Faces by Joseph Campbell 
+1 The Pickwick Papers by Charles Dickens 
+0 Fathers and Sons by Ivan Turgenev 
+1 High Five by Janet Evanovich 
+1 The Tale of Peter Rabbit by Beatrix Potter 
+1 Dead and Gone by Charlaine Harris 
+1 Mrs. Frisby and the Rats of NIMH by Robert C. O'Brien 
+2 Special Topics in Calamity Physics by Marisha Pessl 
+1 The Kitchen God's Wife by Amy Tan 
+0 Christine by Stephen King 
+1 Roll of Thunder, Hear My Cry by Mildred D. Taylor 
+1 Skeleton Crew by Stephen King 
+1 Meditations by Marcus Aurelius 
+2 Charlie and the Great Glass Elevator by Roald Dahl 
+1 Hearts in Atlantis by Stephen King 
+2 Mona Lisa Overdrive by William Gibson 
+3 A Breath of Snow and Ashes by Diana Gabaldon 
+4 Perelandra by C. S. Lewis 
+1 The House of the Seven Gables by Nathaniel Hawthorne
